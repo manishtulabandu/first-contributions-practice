@@ -14,4 +14,4 @@ This repository is for **beginners** to practice making **pull requests (PRs)** 
 
 ## 👥 Contributors  
 
-👤 Your Name - [GitHub Profile](https://github.com/YOUR-USERNAME)  
+👤 Mani - [GitHub Profile](https://github.com/manishtulabandu)  
